@@ -1,0 +1,32 @@
+
+#contenedorLista{
+    background-color:darkgray;
+    border: 1px solid;
+    font-weight: bolder;
+    display: none;
+    margin-bottom: 2%;
+} 
+
+#contenedor1{
+     margin: auto;
+     margin-bottom: 2%;
+
+} /* Centrando contenedor  */
+
+.container{
+    background-color:rgb(159, 186, 194);
+    margin-top:5px;
+    width: 50%;
+    height:auto;
+    border-radius:10px;
+}
+
+form{
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+} /* Resultados inputs */
+
+.texto1{
+    border: 1px solid;
+}
